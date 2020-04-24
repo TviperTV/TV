@@ -1,29 +1,3 @@
-#EXTM3U
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/akAb8NA.png" group-title="* Fluxus.tv",Fluxus Wallpapers (MP4)
-https://fluxustv.blogspot.com@bit.ly/FluxusTV-Wallpapers?.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/akAb8NA.png" group-title="* Fluxus.tv",Fluxus Wallpapers (YouTube)
-https://www.youtube.com/watch?v=hZn3IKn0TmA
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E7hPvSM.png" group-title="* Fluxus.tv",Fluxus Universe (MP4)
-https://fluxustv.blogspot.com@bit.ly/FluxusUniverse?.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E7hPvSM.png" group-title="* Fluxus.tv",Fluxus Universe (YouTube)
-https://www.youtube.com/watch?v=X8VXPaTub7k
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H8p24fF.png" group-title="* Fluxus.tv",Fluxus Immersed (MP4)
-https://fluxustv.blogspot.com@bit.ly/FluxusRelax?.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H8p24fF.png" group-title="* Fluxus.tv",Fluxus Immersed (YouTube)
-https://www.youtube.com/watch?v=LPZF60cpLFc
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/62H9un9.png" group-title="+ IPTV Playlist",+ IPTV Playlist
-https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DonjeJR.png" group-title="- Update: 03.31.2020",- Update: 03.31.2020
-https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rDow9Y7.png" group-title="LABEL",~ 24/7 YouTube English ~
 https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
  
