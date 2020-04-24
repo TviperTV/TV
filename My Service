@@ -88,51 +88,21 @@ http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="24/7 WORLD NEWS",CNN (US) (Opt-2)
 http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 1 (SD)
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 1 (HD)
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 1 (UHD)
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 2 (SD)
-https://ott-live.olympicchannel.com/out/u/OC2_3.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 2 (HD)
 https://ott-live.olympicchannel.com/out/u/OC2_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 2 (UHD)
-https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 3 (SD)
-https://ott-live.olympicchannel.com/out/u/OC3_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 3 (HD)
 https://ott-live.olympicchannel.com/out/u/OC3_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 3 (UHD)
-https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 4 (SD)
-https://ott-live.olympicchannel.com/out/u/OC4_3.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 4 (HD)
 https://ott-live.olympicchannel.com/out/u/OC4_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 4 (UHD)
-https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 5 (SD)
-https://ott-live.olympicchannel.com/out/u/OC5_3.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 5 (HD)
 https://ott-live.olympicchannel.com/out/u/OC5_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 5 (UHD)
-https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xby8ozQ.png" group-title="LABEL",~ 24/7 English Channels ~
 https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
