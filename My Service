@@ -1,76 +1,291 @@
 #EXTINF:-1,CA: ABC HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5694
-#EXTINF:-1,CA: BBC WORLD NEWS
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5696
-#EXTINF:-1,CA: BOUNCE
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5689
-#EXTINF:-1,CA: CBC HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5701
-#EXTINF:-1,CA: CBC NEWS
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5700
-#EXTINF:-1,CA: CBC VANCOUVER
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5699
-#EXTINF:-1,CA: CBS WEST
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5698
-#EXTINF:-1,CA: CHCH HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5712
-#EXTINF:-1,CA: CITYTV HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5709
-#EXTINF:-1,CA: CNBC
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5697
-#EXTINF:-1,CA: CP24
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5714
-#EXTINF:-1,CA: CTV 2 VANCOUVER
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5702
-#EXTINF:-1,CA: CTV HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5704
-#EXTINF:-1,CA: CTV VANCOUVER
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5703
-#EXTINF:-1,CA: CW23 HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5688
-#EXTINF:-1,CA: FOX
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5695
-#EXTINF:-1,CA: FOX WEST
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5693
-#EXTINF:-1,CA: FX
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5692
-#EXTINF:-1,CA: FXX
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5691
-#EXTINF:-1,CA: GLOBAL TORONTO HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5706
-#EXTINF:-1,CA: GLOBAL VANCOUVER
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5705
-#EXTINF:-1,CA: HBO
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5690
-#EXTINF:-1,CA: NBC HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5686
-#EXTINF:-1,CA: OMNI 1 HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5711
-#EXTINF:-1,CA: OMNI 2 HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5710
-#EXTINF:-1,CA: PBS KIDS HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5687
-#EXTINF:-1,CA: SPORTSNET 360 HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5680
-#EXTINF:-1,CA: SPORTSNET ONE HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5679
-#EXTINF:-1,CA: SPORTSNET WEST HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5678
-#EXTINF:-1,CA: SPORTSNET WORLD HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5677
-#EXTINF:-1,CA: TELE HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5707
-#EXTINF:-1,CA: TSN 1 HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5685
-#EXTINF:-1,CA: TSN 2 HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5684
-#EXTINF:-1,CA: TSN 3 HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5683
-#EXTINF:-1,CA: TSN 4 HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5682
-#EXTINF:-1,CA: TSN 5 HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5681
-#EXTINF:-1,CA: TVO HD
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5708
-#EXTINF:-1,CA: WEATHER NETWORK
-http://cdn.miptv.ws:8880/rfflb/kdvydl/5713
+#EXTINF:-1,[CA] YES TV HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10937.ts
+#EXTINF:-1,[CA] TSN 5 HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10938.ts
+#EXTINF:-1,[CA] TSN 5 FHD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10939.ts
+#EXTINF:-1,[CA] TSN 4 FHD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10940.ts
+#EXTINF:-1,[CA] TSN 3 HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10941.ts
+#EXTINF:-1,[CA] TSN 3 FHD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10942.ts
+#EXTINF:-1,[CA] TSN 2 HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10943.ts
+#EXTINF:-1,[CA] TSN 2 FHD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10944.ts
+#EXTINF:-1,[CA] TSN 1 HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10945.ts
+#EXTINF:-1,[CA] TLC HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10946.ts
+#EXTINF:-1,[CA] Sports Net West HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10947.ts
+#EXTINF:-1,[CA] Sports Net Pacific HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10948.ts
+#EXTINF:-1,[CA] Slice HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10949.ts
+#EXTINF:-1,[CA] RDS Info CA-FR
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10950.ts
+#EXTINF:-1,[CA] Peachtree HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10951.ts
+#EXTINF:-1,[CA] NTV News HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10952.ts
+#EXTINF:-1,[CA] Lifetime FHD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10953.ts
+#EXTINF:-1,[CA] HBO 2 HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10954.ts
+#EXTINF:-1,[CA] FXX CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10955.ts
+#EXTINF:-1,[CA] FX FHD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10956.ts
+#EXTINF:-1,[CA] Fight Network HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10957.ts
+#EXTINF:-1,[CA] E! Entertainment HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10958.ts
+#EXTINF:-1,[CA] Disney JR HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10959.ts
+#EXTINF:-1,[CA] Disney HD
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10960.ts
+#EXTINF:-1,[CA] Discovery Science CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10961.ts
+#EXTINF:-1,[CA] CTV News Live Events 3 HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10962.ts
+#EXTINF:-1,[CA] CPAC HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10963.ts
+#EXTINF:-1,[CA] CP24 HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10964.ts
+#EXTINF:-1,[CA] CTV Comedy HD  ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10965.ts
+#EXTINF:-1,[CA] City Vancouver FHD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10966.ts
+#EXTINF:-1,[CA] CHCH HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10967.ts
+#EXTINF:-1,[CA] CBC Vancouver HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10968.ts
+#EXTINF:-1,[CA] CBC Toronto HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10969.ts
+#EXTINF:-1,[CA] CBC Montreal CA-FR
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10970.ts
+#EXTINF:-1,[CA] CBC HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10971.ts
+#EXTINF:-1,[CA] BNN HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10972.ts
+#EXTINF:-1,[CA] beIN Sports HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10973.ts
+#EXTINF:-1,[CA] AMC HD CA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10974.ts
+#EXTINF:-1,[CA] ZESTE QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10975.ts
+#EXTINF:-1,[CA] Z TELE QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10976.ts
+#EXTINF:-1,[CA] YES Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10977.ts
+#EXTINF:-1,[CA] VRAK TV QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10978.ts
+#EXTINF:-1,[CA] VISION TV Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10979.ts
+#EXTINF:-1,[CA] TVA SPORTS QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10980.ts
+#EXTINF:-1,[CA] TV5 QUEBEC QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10981.ts
+#EXTINF:-1,[CA] TURNER CLASSIC MOVIES Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10982.ts
+#EXTINF:-1,[CA] TREEHOUSE Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10983.ts
+#EXTINF:-1,[CA] TMN 2 HD Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10984.ts
+#EXTINF:-1,[CA] TELE QUEBEC QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10985.ts
+#EXTINF:-1,[CA] SUPER CHANNEL 4 Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10986.ts
+#EXTINF:-1,[CA] SUPER CHANNEL 2 Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10987.ts
+#EXTINF:-1,[CA] SUPER CHANNEL 1 Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10988.ts
+#EXTINF:-1,[CA] SPACE Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10989.ts
+#EXTINF:-1,[CA] SLICE Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10990.ts
+#EXTINF:-1,[CA] SERIES  QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10991.ts
+#EXTINF:-1,[CA] RDS. QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10992.ts
+#EXTINF:-1,[CA] RDS QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10993.ts
+#EXTINF:-1,[CA] RDS INFO QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10994.ts
+#EXTINF:-1,[CA] RDS 2 QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10995.ts
+#EXTINF:-1,[CA] RDI QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10996.ts
+#EXTINF:-1,[CA] PRISE 2 QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10997.ts
+#EXTINF:-1,[CA] PEACHTREE Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10998.ts
+#EXTINF:-1,[CA] OWN HD Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/10999.ts
+#EXTINF:-1,[CA] OMNI 2 HD Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11000.ts
+#EXTINF:-1,[CA] OLN Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11001.ts
+#EXTINF:-1,[CA] NATIONAL GEOGRAPHIC Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11002.ts
+#EXTINF:-1,[CA] NAT GEO WILD Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11003.ts
+#EXTINF:-1,[CA] MOVIE TIME 1 Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11004.ts
+#EXTINF:-1,[CA] MOVIE CENTRAL Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11005.ts
+#EXTINF:-1,[CA] METEO QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11006.ts
+#EXTINF:-1,[CA] LIFETIME Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11007.ts
+#EXTINF:-1,[CA] LCN QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11008.ts
+#EXTINF:-1,[CA] ICI VANCOUVER QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11009.ts
+#EXTINF:-1,[CA] ICI MONTREAL QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11010.ts
+#EXTINF:-1,[CA] HISTORIA QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11011.ts
+#EXTINF:-1,[CA] HBO 2 Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11012.ts
+#EXTINF:-1,[CA] HBO 1 Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11013.ts
+#EXTINF:-1,[CA] FX HD Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11014.ts
+#EXTINF:-1,[CA] E! Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11015.ts
+#EXTINF:-1,[CA] DISNEY JR Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11016.ts
+#EXTINF:-1,[CA] DISNEY Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11017.ts
+#EXTINF:-1,[CA] CTV MONTREAL Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11018.ts
+#EXTINF:-1,[CA] CPAC QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11019.ts
+#EXTINF:-1,[CA] CP24. Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11020.ts
+#EXTINF:-1,[CA] CP24 Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11021.ts
+#EXTINF:-1,[CA] CHCH Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11022.ts
+#EXTINF:-1,[CA] CBC MONTREAL QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11023.ts
+#EXTINF:-1,[CA] CASA QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11024.ts
+#EXTINF:-1,[CA] CANAL VIE QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11025.ts
+#EXTINF:-1,[CA] CANAL D QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11026.ts
+#EXTINF:-1,[CA] BEIN SPORTS CANADA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11027.ts
+#EXTINF:-1,[CA] ARTV QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11028.ts
+#EXTINF:-1,[CA] AMC Ca
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11029.ts
+#EXTINF:-1,[CA] ADDIK TV QC
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11030.ts
+#EXTINF:-1,[CA] FAMILY CHRGD
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11031.ts
+#EXTINF:-1,[CA] YTV
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11032.ts
+#EXTINF:-1,[CA] YOOPA (FR)
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11033.ts
+#EXTINF:-1,[CA] KNOWLEDGE KIDS
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11034.ts
+#EXTINF:-1,[CA] TVO
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11035.ts
+#EXTINF:-1,[CA] TRAVEL ESCAPE
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11036.ts
+#EXTINF:-1,[CA] Animal Planet
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11037.ts
+#EXTINF:-1,[CA] Game TV
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11038.ts
+#EXTINF:-1,[CA] Wild TV
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11039.ts
+#EXTINF:-1,[CA] DEJAVIEW
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11040.ts
+#EXTINF:-1,[CA] W_NETWORK
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11041.ts
+#EXTINF:-1,[CA] Food Network
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11042.ts
+#EXTINF:-1,[CA] CTV2 OTTAWA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11043.ts
+#EXTINF:-1,[CA] COTTAGE LIFE
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11044.ts
+#EXTINF:-1,[CA] Love Nature
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11045.ts
+#EXTINF:-1,[CA] History Channel
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11046.ts
+#EXTINF:-1,[CA] MTV
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11047.ts
+#EXTINF:-1,[CA] CITY TORONTO
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11048.ts
+#EXTINF:-1,[CA] CITYLGARY
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11049.ts
+#EXTINF:-1,[CA] HGTV
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11050.ts
+#EXTINF:-1,[CA] CBC Edmonton
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11051.ts
+#EXTINF:-1,[CA] CBC Halifax
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11052.ts
+#EXTINF:-1,[CA] CBC OTTAWA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11053.ts
+#EXTINF:-1,[CA] CBC Winnipeg
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11054.ts
+#EXTINF:-1,[CA] CBC News Network
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11055.ts
+#EXTINF:-1,[CA] COOKING CHANNEL
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11056.ts
+#EXTINF:-1,[CA] GLOBAL HALIFAX
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11057.ts
+#EXTINF:-1,[CA] GLOBAL VANCOUVER
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11058.ts
+#EXTINF:-1,[CA] CTV TORONTO
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11059.ts
+#EXTINF:-1,[CA] CTV VANCOUVER
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11060.ts
+#EXTINF:-1,[CA] ABC Spark
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11061.ts
+#EXTINF:-1,[CA] CTV Drama
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11062.ts
+#EXTINF:-1,[CA] Makeful
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11063.ts
+#EXTINF:-1,[CA] CTV 2 VANCOUVER
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11064.ts
+#EXTINF:-1,[CA] CTV2 OTTAWA
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11065.ts
+#EXTINF:-1,[CA] Super Ecran 2 (FR)
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11066.ts
+#EXTINF:-1,[CA] Super Ecran 3 (FR)
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11067.ts
+#EXTINF:-1,[CA] Super Ecran 4 (FR)
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11068.ts
+#EXTINF:-1,[CA] Teletoon (FR)
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11069.ts
+#EXTINF:-1,[CA] Canal Savoir
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11070.ts
+#EXTINF:-1,[CA] CinePOP (FR)
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11071.ts
+#EXTINF:-1,[CA] TVA Montreal (CFTM)
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11072.ts
+#EXTINF:-1,[CA] Musique Plus (FR)
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11073.ts
+#EXTINF:-1,[CA] MOI et CIE (FR)
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11074.ts
+#EXTINF:-1,[CA] Unis_TV_(FR)
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11075.ts
+#EXTINF:-1,[CA] Sports Net 360 FHD
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11076.ts
+#EXTINF:-1,[CA] Sports Net One HD
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11077.ts
+#EXTINF:-1,[CA] Sports Net World HD
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11078.ts
+#EXTINF:-1,[CA] Sports Net Ontario HD
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11079.ts
+#EXTINF:-1,[CA] Sports Net East HD
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11080.ts
+#EXTINF:-1,[CA] CTV Calgary
+http://live.astvpro.com:8880/live/KP53yqExFU/sWr6rfMtcB/11081.ts
