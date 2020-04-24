@@ -1,117 +1,12 @@
-<dir>
-        <title>Search</title>
-        <imdburl>searchseries</imdburl>
-        <thumbnail></thumbnail>
-    </dir>
- 
-    ####TV
-    <dir>
-        <title>Newest</title>
-        <imdburl>tvshows/new</imdburl>
-        <thumbnail></thumbnail>
-    </dir>
- 
-    <dir>
-        <title>Best Ratings</title>
-        <imdburl>tvshows/rating</imdburl>
-        <thumbnail></thumbnail>
-    </dir>
- 
-    <dir>
-        <title>Most Viewed</title>
-        <imdburl>tvshows/mostviews</imdburl>
-        <thumbnail></thumbnail>
-    </dir>
- 
-    ###charts
-    <dir>
-        <title>Chart Best Rated</title>
-        <imdburl>charttv/toptv</imdburl>
-    </dir>
- 
-    ###Genres
-    <dir>
-        <title>IMDB Action TV Shows</title>
-        <imdburl>genres/action</imdburl>
-        <thumbnail></thumbnail>
-    </dir>
- 
-    ### Movies
-    <dir>
-        <title>IMDB Trending</title>
-        <imdburl>movies/trending</imdburl>
-    </dir>
- 
-    <dir>
-    <title>2016</title>
-        <imdburl>years/2016</imdburl>
-        <thumbnail></thumbnail>
-    </dir>
- 
-    ###For user list
-    <dir>
-        <title>IMDB TOP 100 Gangster List</title>
-        <imdburl>list/ls001818278</imdburl>
-    </dir>
- 
-    ###For upcoming release list by country
-    <dir>
-        <title>IMDB Upcoming Releases in the US</title>
-        <imdburl>moviecalendar/US</imdburl>
-    </dir>
- 
-<dir>
-        <title>IMDB Upcoming Releases in the US</title>
-        <imdburl>moviecalendar/UK</imdburl>
-    </dir>
- 
-<dir>
-        <title>IMDB Upcoming Releases in the US</title>
-        <imdburl>moviecalendar/INDIA</imdburl>
-    </dir>
-       
-    <dir>
-    <title>2016</title>
-        <imdburl>years/2016</imdburl>
-        <thumbnail></thumbnail>
-    </dir>
- 
-<dir>
-    <title>2017</title>
-        <imdburl>years/2017</imdburl>
-        <thumbnail></thumbnail>
-    </dir>
- 
-<dir>
-    <title>2018</title>
-        <imdburl>years/2018</imdburl>
-        <thumbnail></thumbnail>
-    </dir>
- 
-<dir>
-    <title>2019</title>
-        <imdburl>years/2019</imdburl>
-        <thumbnail></thumbnail>
-    </dir>
- 
-<dir>
-    <title>2019</title>
-    <imdburl>years/2019</imdburl>
-    <thumbnail></thumbnail>
-</dir>
- 
-<dir>
-    <title>2019</title>
-    <imdburl>years/2019</imdburl>
-    <thumbnail></thumbnail>
-</dir>
-   
-    <dir>
-        <title>IMDB TOP 100 Gangster List</title>
-        <imdburl>list/ls001818278</imdburl>
-    </dir>
- 
-<dir>
-        <title>IMDB TOP movies List</title>
-        <imdburl>list/ls021209007</imdburl>
-    </dir>
+max 50
+http://smarters.ddns.net:8000/get.php?username=live:alinhotfc2020&password=tvsports2020&type=m3u
+max 25
+http://siptv.dyndns.tv:25461/get.php?username=Havana&password=multiCS1455&type=m3u
+max 30
+http://config.streamstv.me:8080/get.php?username=live:cteaker_2&password=OQITunbPAo&type=m3u
+max 30
+http://iptv.allkaicerteam.com:8080/get.php?username=Exfbkroosword&password=2791666713&type=m3u
+max 40
+http://mayootv.dyndns.tv:2165/get.php?username=live:alinhotfc&password=Me2hOgmz2K&type=m3u
+max 80
+http://sp3te.website:8080/get.php?username=live:alinhotfc&password=n2J5QTnoEp&type=m3u
